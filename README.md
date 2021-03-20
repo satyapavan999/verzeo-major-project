@@ -1,4 +1,4 @@
-# verzeo-major-project
+
 
 Batch-6
 A Web App to make buy/sell calls based on open range strategy for the picked stocks
